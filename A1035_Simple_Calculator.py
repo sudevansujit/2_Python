@@ -21,3 +21,39 @@ elif ((dict[user_input])== "DIVIDE"):
     print(dict[user_input],"a/b =", a/b)
 else:
     print("Invalid Input- Choose 1,2,3 or 4")
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#O/P
+#    Select No.     Operation
+#      1               ADD  
+#      2         SUBSTRACT  
+#      3          MULTIPLY  
+#      4            DIVIDE  
+#    Enter Operation number:   3
+#    Enter a Number a: 34
+#    Enter a Number b: 32
+#    MULTIPLY a*b = 1088   

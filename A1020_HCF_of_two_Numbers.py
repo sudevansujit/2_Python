@@ -19,3 +19,35 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
 print("The H.C.F. of", num1,"and", num2,"is  ", computeHCF(num1, num2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#O/P
+# Enter first number: 12
+# Enter second number: 48
+# The H.C.F. of 12 and 48 is   12

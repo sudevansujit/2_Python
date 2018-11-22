@@ -10,3 +10,47 @@ def num_factors(x):
 
 num = int(input("Enter a number:   "))
 num_factors(num)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#O/P
+#Enter a number:   46
+#The factors of  46 are:
+#1
+#2
+#23
+#46

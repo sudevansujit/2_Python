@@ -7,11 +7,49 @@ my_str = my_str.casefold()               # make it suitable for caseless compari
 rev_str = reversed(my_str)
 
 if list(my_str) == list(rev_str):         # check if the string is equal to its reverse
-   print("It is palindrome")
+   print("It is Palindrome")
 
 else:
-   print("It is not palindrome")
-    
+   print("It is not Palindrome")
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+#O/P
+#         Enter your String :   malayalam
+#         It is Palindrome   
 
 
 

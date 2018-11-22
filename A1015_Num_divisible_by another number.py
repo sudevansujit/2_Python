@@ -1,8 +1,3 @@
-
-
-
-
-
 # Num divisible by another number
 
 num = int(input("Enter a number :"))
@@ -47,6 +42,11 @@ for n in my_list:
         
         
  
+
+
+
+
+
 #O/P
 #Enter a number :2
 #54

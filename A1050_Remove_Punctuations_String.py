@@ -11,3 +11,41 @@ for char in my_str:
         no_punct=no_punct + char
 
 print(no_punct)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#       O/P
+#       Hello John Hows Life

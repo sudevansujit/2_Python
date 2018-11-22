@@ -50,4 +50,4 @@ print("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2))
 #O/P
 #Enter first number: 25
 #Enter second number: 125
-#The L.C.M. of 25 and 125 is 125
+#The L.C.M. of 25 and 125 is 125 

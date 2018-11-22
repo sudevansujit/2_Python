@@ -19,3 +19,38 @@ for char in alpha_split:
             print(item)
 
 
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+#                O/P
+#                a
+#                is
+#                language
+#                Python
+#                programming
+#                wonderful            

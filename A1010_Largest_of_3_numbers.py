@@ -6,7 +6,8 @@
 #num2 = 14
 #num3 = 12
 
-# uncomment following lines to take three numbers from user
+#  to take three numbers from user
+
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 num3 = float(input("Enter third number: "))
@@ -19,3 +20,36 @@ else:
    largest = num3
 
 print("The largest number between",num1,",",num2,"and",num3,"is",largest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#O/P
+#Enter first number: 23
+#Enter second number: 45
+#Enter third number: 67
+#The largest number between 23.0 , 45.0 and 67.0 is 67.0

@@ -17,3 +17,44 @@ while (guess <= 9):
 
 
 
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#    Guess my  number between 1-9:   6
+#    Wrong Guess, Try Again
+#    Total Attempts  =  1
+#    **************************
+#    Enter number between 1-9 :  4
+#    Wrong Guess, Try Again
+#    Total Attempts  =  2
+#    **************************
+#    Enter number between 1-9 :  7
+#    Number Guessed is correct
+#    Total Attempts  =  3

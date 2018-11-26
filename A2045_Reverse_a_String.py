@@ -8,3 +8,45 @@ for item in word:
 
 print("Reversed String is:  ", a)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    Enter your String:     Python is Good
+#    Reversed String is:    dooG si nohtyP

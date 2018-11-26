@@ -1,4 +1,5 @@
 # Program to check String Palindrome or Not
+# The Finnish word for soapstone vender is supposedly the longest palindrome in everyday use: "saippuakivikauppias" 
 
 my_str = str(input("Enter your String :   "))   
 

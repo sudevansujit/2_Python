@@ -17,3 +17,36 @@ else:
 
 total = amount + surcharge
 print("\nElectricity Bill = %.2f"  %total)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#   Please enter Number of Units you Consumed : 100
+
+#   Electricity Bill = 327.50

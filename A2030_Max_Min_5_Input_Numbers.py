@@ -16,3 +16,43 @@ for item in lists:
 print(count,  "is Maximum")
 print(number, "is Minimum")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    Enter Five Numbers between 1 and 100
+#    a=  23
+#    b=  45
+#    c=  43
+#    d=  76
+#    e=  87
+#    87 is Maximum
+#    23 is Minimum

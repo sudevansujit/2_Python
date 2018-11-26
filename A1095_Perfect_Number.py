@@ -15,3 +15,37 @@ else:
     print(" %d is not a Perfect Number" %number)
 
 
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+ #      Please Enter any Number: 496
+ #      496 is a Perfect Number  

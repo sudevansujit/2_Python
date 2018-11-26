@@ -12,3 +12,40 @@ if(year%4 == 0):
         print("%d is a Leap Year" %year)
 else:
     print("%d is Not a Leap Year" %year)
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#       Please Enter the Year Number you wish: 1988
+#       1988 is a Leap Year

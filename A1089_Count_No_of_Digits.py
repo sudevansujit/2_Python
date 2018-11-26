@@ -9,3 +9,44 @@ while(Number > 0):
 print("\n Number of Digits in the Given Number = %d" %Count)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#       Please Enter any Number: 12345
+
+ #      Number of Digits in a Given Number = 5

@@ -17,3 +17,36 @@ if(number == reverse):
     print("%d is a Palindrome Number" %number)
 else:
     print("%d is not a Palindrome Number" %number)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+#    Please Enter any Number: 12321
+#    Reverse of given number = 12321
+#    12321 is a Palindrome Number

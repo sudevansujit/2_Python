@@ -26,3 +26,27 @@ if number == total:
     print("\n %d is Armstrong Number.\n" %number)
 else:
     print("\n %d is Not an Armstrong Number.\n" %number)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#          Please Enter the Number to Check for Armstrong: 153
+
+ #         153 is Armstrong Number.

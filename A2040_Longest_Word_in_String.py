@@ -11,3 +11,43 @@ for items in new:
 
 print(new)
 print(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    Enter your String Sentence:     Programming with Python is fun
+#    ['Programming', 'with', 'Python', 'is', 'fun']
+#    Programming

@@ -1,6 +1,6 @@
 # Python Program to print Strong numbers from 1 to Maximum
 
-# Strong numbers are such numbers in which the sum of the factorials
+# Strong numbers are such numbers in which the sum of the factorials\
 # of the digits is equal to the given number
 
 
@@ -21,3 +21,34 @@ for number in range(1, maximum):
     
     if (total == number):
         print(" %d is a Strong number" %number)
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+#    Please Enter the Maximum Value: 100000
+#    1 is a Strong number
+#    2 is a Strong number
+#    145 is a Strong number
+#    40585 is a Strong number

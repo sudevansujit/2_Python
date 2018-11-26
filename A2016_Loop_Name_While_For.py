@@ -9,3 +9,54 @@ while (count<3):
     else:
         count = count +1
         print("\n")
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+#    Sam
+#    Tan
+#    Jai
+
+
+#    Sam
+#    Tan
+#    Jai
+
+
+#    Sam
+#    Tan
+#    Jai

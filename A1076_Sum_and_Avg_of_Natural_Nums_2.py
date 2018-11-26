@@ -15,3 +15,38 @@ print("The Sum of Natural Numbers from 1 to {0} =  {1}".format(number, total))
 print("Average of Natural Numbers from 1 to {0} =  {1}".format(number, average))
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#  Please Enter any Number: 10
+#  The Sum of Natural Numbers from 1 to 10 =  55
+#  Average of Natural Numbers from 1 to 10 =  5.5

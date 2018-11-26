@@ -15,3 +15,48 @@ for item in sent:
         print(a)
 print("Total Vowels  =",count)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#   Enter String:   Python is a wonderful language
+#   python is a wonderful language
+#   o
+#   i
+#   a
+#   o
+#   e
+#   u
+#   a
+#   u
+#   a
+#   e
+#   Total Vowels  = 10

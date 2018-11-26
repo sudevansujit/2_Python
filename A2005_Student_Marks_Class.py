@@ -12,3 +12,40 @@ elif (score >=85) and (score <= 100):
     print("You got Distinction")
 else:
     print("You Failed, Study Hard")
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#        Enter Student Score <= 100 : 76
+#        You got Ist Class

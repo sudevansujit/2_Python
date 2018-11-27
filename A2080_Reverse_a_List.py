@@ -47,5 +47,5 @@ print("\nThe Reversed List is =  ", newlist)
 
 
 
-#    O/P
+#    O/P 
 #    The Reversed List is =   [7, 6, 5, 4, 3, 2, 1]

@@ -14,3 +14,39 @@ for item in L1:
         
 print(even_count,"odd numbers")
 print(odd_count,"even numbers")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    4 odd numbers
+#    5 even numbers

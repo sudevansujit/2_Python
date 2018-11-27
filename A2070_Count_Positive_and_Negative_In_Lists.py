@@ -13,3 +13,40 @@ for item in L1:
 
 print(positive, "numbers are positive")
 print(negative, "numbers are negative")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    5 numbers are positive
+#    4 numbers are negative

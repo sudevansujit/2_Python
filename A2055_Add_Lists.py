@@ -9,3 +9,43 @@ for j in range(3):
     total.append( L1[j] + L2[j] )
 
 print(total)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    [15, 30, 45]

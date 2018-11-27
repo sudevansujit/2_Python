@@ -13,3 +13,40 @@ for j in range(L2):
 
 print(largest, "is the largest element in the list")
 print(position, "is the index position of the element")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    100 is the largest element in the list
+#    8 is the index position of the element

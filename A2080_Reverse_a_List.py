@@ -2,12 +2,6 @@
 
 newlist = [1,2,3,4,5,6,7]
 
-#number = int(input("Please enter the Total number of List Elements: "))
-
-#for i in range(1, number + 1):
-#    value = int(input("Please enter the Value of %d Element : " %i))
-#    newlist.append(value)
-
 j = len(newlist)-1 
 i = 0
 
@@ -20,3 +14,38 @@ while(i < j):
     
 print("\nThe Reversed List is =  ", newlist)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    The Reversed List is =   [7, 6, 5, 4, 3, 2, 1]

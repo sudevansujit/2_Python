@@ -17,3 +17,37 @@ while(j< len(numlist)):
 print("Element in even List is : ", even,"\n")
 
 print("Element in odd List is : ", odd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    O/P
+#    Element in even List is :  [2, 4, 6, 8] 
+
+#    Element in odd List is :  [1, 3, 5, 7, 9]
